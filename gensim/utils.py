@@ -5,7 +5,7 @@
 # Licensed under the GNU LGPL v2.1 - http://www.gnu.org/licenses/lgpl.html
 
 """
-This module contains various general utility functions.
+This module contains various  general utility functions.
 """
 
 from __future__ import with_statement
